@@ -1,0 +1,27 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.red-color{
+    color:red;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img {
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: olivedrab;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+}
